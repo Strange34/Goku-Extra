@@ -100,9 +100,10 @@ Helps you to know your ping 🚶🏼‍♂️
 
 • /alive - To check you are alive.
 • /help - To get help.
+• /repo - To get info about repo.
 • /ping - To get your ping.
-• /channel - Channel Details.
-• /ajax - Bot Link.
+• /official - To get some official details.
+• /goku - Bot Link.
 <b>🏹Usage🏹 :</b>
 
 • This commands can be used in pms and groups
@@ -142,7 +143,7 @@ Delete A Lot Of Messages From Groups!
 ◉ /purge :- Delete All Messages From The Replied To Message, To The Current Message"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
--ᗩᒍᗩ᙭  Supports both url and alert inline buttons.
+-Goku  Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
