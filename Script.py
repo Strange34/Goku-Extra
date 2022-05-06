@@ -102,7 +102,7 @@ Helps you to know your ping 🚶🏼‍♂️
 • /help - To get help.
 • /repo - To get info about repo.
 • /ping - To get your ping.
-• /official - To get some official details.
+• /official - Some official details.
 • /goku - Bot Link.
 <b>🏹Usage🏹 :</b>
 
