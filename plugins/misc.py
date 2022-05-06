@@ -183,7 +183,7 @@ async def help(client, message):
             ],[
             InlineKeyboardButton('ɢ-ᴛʀᴀɴs', callback_data='gtrans'),
             InlineKeyboardButton('ғɪʟᴇ-sᴛᴏʀᴇ', callback_data='newdata'),
-            InlineKeyboardButton('sᴛᴀᴛᴜs', callback_data='stats')
+            InlineKeyboardButton('sᴛᴀᴛᴜs🔮', callback_data='stats')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
