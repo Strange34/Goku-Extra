@@ -51,35 +51,6 @@
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 * `SUPPORT_CHAT` : @MWUpdatez
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
-### Optional Variables
-
-## Deploy
-You can deploy this bot anywhere.
-
-
-<summary>Deploy To Heroku</summary>
-<br>
-<p>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax-Extra-Featurez">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-
-<a href="https://youtu.be/kB9TkCs8cX0">
-  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
-</a><br>
-
-<details><summary>Deploy To VPS</summary>
-<p>
-<pre>
-git clone https://github.com/Aadhi000/Ajax-Extra-Features
-# Install Packages
-pip3 install -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
-</pre>
-</p>
-</details>
 
 
 ## Commands
